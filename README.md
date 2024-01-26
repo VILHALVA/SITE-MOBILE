@@ -1,10 +1,10 @@
 # SITE MOBILE
 👨‍🏫PROJETO FEITO PARA O CURSO DE HTML E CSS DO CURSO EM VIDEO.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="400"> <br><br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="300"> <br><br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="300"> <br><br>
-<img src="./IMAGENS/FOTO_4.png" align="center" width="300"> <br><br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br><br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br><br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br><br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br><br>
 
 ## DESCRIÇÃO:
 Este projeto demonstra a implementação de um layout responsivo usando HTML, CSS e media queries. Ele oferece uma experiência de usuário consistente e adaptável em uma variedade de dispositivos e tamanhos de tela. O projeto "Site Mobile" apresenta um layout responsivo que se adapta a diferentes dispositivos, como smartphones, tablets, desktops e TVs. Aqui estão os principais recursos do projeto:
